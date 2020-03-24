@@ -1,0 +1,18 @@
+[
+	{"id":"1","type":"按用途","typeCake":[
+		{"id":"1","img":"/img/type1.png","title":"生日蛋糕"},
+		{"id":"2","img":"/img/type2.png","title":"爱情蛋糕"},
+		{"id":"3","img":"/img/type3.png","title":"祝寿蛋糕"},
+		{"id":"4","img":"/img/type4.png","title":"创意蛋糕"},
+		{"id":"5","img":"/img/type5.png","title":"商务庆典"},
+		{"id":"6","img":"/img/type6.png","title":"鲜花+蛋糕"}
+	]},
+	{"id":"2","type":"按对象","typeCake":[
+		{"id":"7","img":"/img/type7.png","title":"送恋人"},
+		{"id":"8","img":"/img/type8.png","title":"送家人"},
+		{"id":"9","img":"/img/type9.png","title":"送长辈"},
+		{"id":"10","img":"/img/type10.png","title":"送朋友"},
+		{"id":"11","img":"/img/type11.png","title":"送儿童"},
+		{"id":"12","img":"/img/type12.png","title":"送公司"}
+	]}
+]
